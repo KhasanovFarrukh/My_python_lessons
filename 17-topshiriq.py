@@ -34,6 +34,3 @@ while flag:
       print('Chipta bepul')
    elif yosh > 120:
       print('Bu yoshga kirgan odam muzeyga borolmasa kerak-aaa???')
-
-   
-"""Yuqoridagi dasturni turli usullarda yozib ko'ring (break, ishora, yoki shart tekshirish)"""
